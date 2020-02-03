@@ -1,7 +1,8 @@
 ﻿
+using System;
 using Unity.Entities;
 
-
+[Serializable]
 public struct spawner_component : IComponentData
 {
   public Entity prefab;

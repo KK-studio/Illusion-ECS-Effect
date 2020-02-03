@@ -17,11 +17,14 @@ public class Spawner_System : ComponentSystem
             if (myref.timeToNext < 0)
             {
 
-                Entity entity = EntityManager.Instantiate(myref.prefab);
-                EntityManager.AddComponentData(entity,new Translation
+                for (int i = 0; i < 50; i++)
                 {
-                    Value = new float3(0,0,myref.lastPos)
-                });
+                    Entity entity = EntityManager.Instantiate(myref.prefab);
+                    EntityManager.AddComponentData(entity,new Translation
+                    {
+                        Value = new float3(i,0,myref.lastPos)
+                    });
+                }
                 myref.timeToNext =  1;
                 myref.lastPos += 1;
             }
