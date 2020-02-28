@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0fd948af-166e-4724-8726-0baf72f6b47c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Danial/prefabs/myMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Danial/prefabs/myMat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Danial/scripts/Spawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Danial/scripts/Spawner.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Danial/scripts/Spawner_System.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Danial/scripts/Spawner_System.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Danial/scripts/move_component.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Danial/scripts/move_component.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Danial/scripts/move_convert.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Danial/scripts/move_convert.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Danial/scripts/move_system.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Danial/scripts/move_system.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Danial/scripts/spawner_component.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Danial/scripts/spawner_component.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Danial/scripts/Spawner.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-30">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <marker date="1582898732041" expanded="true" signature="6:138" ph="..." />
+                <marker date="1582898732041" expanded="true" signature="229:998" ph="{...}" />
+                <marker date="1582898732041" expanded="true" signature="341:445" ph="{...}" />
+                <marker date="1582898732041" expanded="true" signature="630:870" ph="{...}" />
+                <marker date="1582898732041" expanded="true" signature="949:996" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Danial/scripts/shared_data.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <folding>
+                <marker date="1582900638336" expanded="false" signature="6:85" ph="..." />
+                <marker date="1582900638336" expanded="true" signature="150:212" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Danial/scripts/spawner_component.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-15">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <folding>
+                <marker date="1582901728018" expanded="true" signature="7:61" ph="..." />
+                <marker date="1582901728018" expanded="true" signature="126:278" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Danial/scripts/Spawner_System.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+              <folding>
+                <marker date="1582906379503" expanded="true" signature="6:149" ph="..." />
+                <marker date="1582906379503" expanded="true" signature="196:1529" ph="{...}" />
+                <marker date="1582906379503" expanded="true" signature="237:284" ph="{...}" />
+                <marker date="1582906379503" expanded="true" signature="356:1527" ph="{...}" />
+                <marker date="1582906379503" expanded="true" signature="381:414" ph="{...}" />
+                <marker date="1582906379503" expanded="true" signature="427:1521" ph="{...}" />
+                <marker date="1582906379503" expanded="true" signature="512:1509" ph="{...}" />
+                <marker date="1582906379503" expanded="true" signature="756:1423" ph="{...}" />
+                <marker date="1582906379503" expanded="true" signature="880:1327" ph="{...}" />
+                <marker date="1582906379503" expanded="true" signature="1087:1195" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Danial/scripts/move_component.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+              <folding>
+                <marker date="1582909261116" expanded="false" signature="6:85" ph="..." />
+                <marker date="1582909261116" expanded="true" signature="147:260" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Danial/scripts/move_convert.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <folding>
+                <marker date="1582906379330" expanded="true" signature="6:100" ph="..." />
+                <marker date="1582906379330" expanded="true" signature="170:562" ph="{...}" />
+                <marker date="1582906379330" expanded="true" signature="308:560" ph="{...}" />
+                <marker date="1582906379330" expanded="true" signature="463:552" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Danial/scripts/move_system.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <marker date="1582912069617" expanded="true" signature="6:161" ph="..." />
+                <marker date="1582912069617" expanded="true" signature="205:1541" ph="{...}" />
+                <marker date="1582912069617" expanded="true" signature="246:1539" ph="{...}" />
+                <marker date="1582912069617" expanded="true" signature="346:1531" ph="{...}" />
+                <marker date="1582912069617" expanded="true" signature="378:1206" ph="{...}" />
+                <marker date="1582912069617" expanded="true" signature="472:620" ph="{...}" />
+                <marker date="1582912069617" expanded="true" signature="706:854" ph="{...}" />
+                <marker date="1582912069617" expanded="true" signature="912:1063" ph="{...}" />
+                <marker date="1582912069617" expanded="true" signature="1223:1520" ph="{...}" />
+                <marker date="1582912069617" expanded="true" signature="1351:1502" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Danial/subScene/NewComponent1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1580735155176" expanded="true" signature="6:85" ph="..." />
+                <marker date="1580735155176" expanded="true" signature="146:771" ph="{...}" />
+                <marker date="1580735155176" expanded="true" signature="153:759" ph="/* Add fields to your component here. Remember that: ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>translation</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>c0</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Danial/scripts/Spawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/ComponentSystemBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities.Hybrid/ConvertToEntity.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/Types/TypeManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Danial/scripts/move_system.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Danial/subScene/mySystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Danial/scripts/spawner_component.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Danial/scripts/shared_data.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Danial/scripts/Spawner_System.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Danial/scripts/move_convert.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/EntityComponentStoreDebug.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Danial/scripts/move_component.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Danial/subScene/NewComponent1.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Danial/scripts/spawner_nextSpawn_component.cs" />
+        <option value="$PROJECT_DIR$/Assets/Danial/scripts/shared_data.cs" />
+        <option value="$PROJECT_DIR$/Assets/Danial/scripts/spawner_component.cs" />
+        <option value="$PROJECT_DIR$/Assets/Danial/scripts/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Danial/scripts/Spawner_System.cs" />
+        <option value="$PROJECT_DIR$/Assets/Danial/scripts/move_convert.cs" />
+        <option value="$PROJECT_DIR$/Assets/Danial/scripts/move_component.cs" />
+        <option value="$PROJECT_DIR$/Assets/Danial/scripts/move_system.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.Illusion Effects/.idea/indexLayout.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.Illusion Effects/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="do_not_show_solution_notification" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fd948af-166e-4724-8726-0baf72f6b47c" name="Default Changelist" comment="" />
+      <created>1580718163023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580718163023</updated>
+      <workItem from="1580718169952" duration="7916000" />
+      <workItem from="1580735194202" duration="1336000" />
+      <workItem from="1580736553994" duration="1167000" />
+      <workItem from="1580754789950" duration="1565000" />
+      <workItem from="1580845315076" duration="1511000" />
+      <workItem from="1580931831437" duration="1802000" />
+      <workItem from="1580933844193" duration="208000" />
+      <workItem from="1582896961428" duration="28000" />
+      <workItem from="1582897149855" duration="238000" />
+      <workItem from="1582897420274" duration="130000" />
+      <workItem from="1582897624812" duration="595000" />
+      <workItem from="1582898255609" duration="71000" />
+      <workItem from="1582898390617" duration="1714000" />
+      <workItem from="1582900127292" duration="19000" />
+      <workItem from="1582900206519" duration="135000" />
+      <workItem from="1582900368852" duration="292000" />
+      <workItem from="1582900684243" duration="24000" />
+      <workItem from="1582901092182" duration="5195000" />
+      <workItem from="1582909788272" duration="580000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24526000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1552" height="840" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32104558" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32916668" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Danial/scripts/spawner_nextSpawn_component.cs" />
+    <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities.Hybrid/ConvertToEntity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/Types/TypeManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="1413" selection-start-line="1413" selection-end-line="1413" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Danial/subScene/mySystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1580735055898" expanded="false" signature="6:169" ph="..." />
+            <marker date="1580735055898" expanded="true" signature="220:685" ph="/* This declares a new kind of job, which is a unit of work to do. ... */" />
+            <marker date="1580735055898" expanded="true" signature="764:1596" ph="{...}" />
+            <marker date="1580735055898" expanded="true" signature="779:895" ph="/* Add fields here that your job needs to do its work. ... */" />
+            <marker date="1580735055898" expanded="true" signature="1013:1590" ph="{...}" />
+            <marker date="1580735055898" expanded="true" signature="1036:1554" ph="/* Implement the work to perform for each entity here. ... */" />
+            <marker date="1580735055898" expanded="true" signature="1672:2095" ph="{...}" />
+            <marker date="1580735055898" expanded="true" signature="1733:1945" ph="/* Assign values to the fields on your job here, so that it has ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/ComponentSystemBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="223" column="31" selection-start-line="223" selection-start-column="31" selection-end-line="223" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/EntityComponentStoreDebug.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Danial/scripts/Spawner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <marker date="1582898732041" expanded="true" signature="6:138" ph="..." />
+            <marker date="1582898732041" expanded="true" signature="229:998" ph="{...}" />
+            <marker date="1582898732041" expanded="true" signature="341:445" ph="{...}" />
+            <marker date="1582898732041" expanded="true" signature="630:870" ph="{...}" />
+            <marker date="1582898732041" expanded="true" signature="949:996" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Danial/scripts/shared_data.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <marker date="1582900638336" expanded="false" signature="6:85" ph="..." />
+            <marker date="1582900638336" expanded="true" signature="150:212" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Danial/scripts/spawner_component.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <marker date="1582901728018" expanded="true" signature="7:61" ph="..." />
+            <marker date="1582901728018" expanded="true" signature="126:278" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Danial/scripts/Spawner_System.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <marker date="1582906379503" expanded="true" signature="6:149" ph="..." />
+            <marker date="1582906379503" expanded="true" signature="196:1529" ph="{...}" />
+            <marker date="1582906379503" expanded="true" signature="237:284" ph="{...}" />
+            <marker date="1582906379503" expanded="true" signature="356:1527" ph="{...}" />
+            <marker date="1582906379503" expanded="true" signature="381:414" ph="{...}" />
+            <marker date="1582906379503" expanded="true" signature="427:1521" ph="{...}" />
+            <marker date="1582906379503" expanded="true" signature="512:1509" ph="{...}" />
+            <marker date="1582906379503" expanded="true" signature="756:1423" ph="{...}" />
+            <marker date="1582906379503" expanded="true" signature="880:1327" ph="{...}" />
+            <marker date="1582906379503" expanded="true" signature="1087:1195" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Danial/scripts/move_component.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <marker date="1582909261116" expanded="false" signature="6:85" ph="..." />
+            <marker date="1582909261116" expanded="true" signature="147:260" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Danial/scripts/move_convert.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <marker date="1582906379330" expanded="true" signature="6:100" ph="..." />
+            <marker date="1582906379330" expanded="true" signature="170:562" ph="{...}" />
+            <marker date="1582906379330" expanded="true" signature="308:560" ph="{...}" />
+            <marker date="1582906379330" expanded="true" signature="463:552" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Danial/subScene/NewComponent1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1580735155176" expanded="true" signature="6:85" ph="..." />
+            <marker date="1580735155176" expanded="true" signature="146:771" ph="{...}" />
+            <marker date="1580735155176" expanded="true" signature="153:759" ph="/* Add fields to your component here. Remember that: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Danial/scripts/move_system.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <marker date="1582912069617" expanded="true" signature="6:161" ph="..." />
+            <marker date="1582912069617" expanded="true" signature="205:1541" ph="{...}" />
+            <marker date="1582912069617" expanded="true" signature="246:1539" ph="{...}" />
+            <marker date="1582912069617" expanded="true" signature="346:1531" ph="{...}" />
+            <marker date="1582912069617" expanded="true" signature="378:1206" ph="{...}" />
+            <marker date="1582912069617" expanded="true" signature="472:620" ph="{...}" />
+            <marker date="1582912069617" expanded="true" signature="706:854" ph="{...}" />
+            <marker date="1582912069617" expanded="true" signature="912:1063" ph="{...}" />
+            <marker date="1582912069617" expanded="true" signature="1223:1520" ph="{...}" />
+            <marker date="1582912069617" expanded="true" signature="1351:1502" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

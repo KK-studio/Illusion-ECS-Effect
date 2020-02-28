@@ -7,27 +7,51 @@ using UnityEngine;
 
 public class Spawner_System : ComponentSystem
 {
+    protected override void OnCreate()
+    {
+        
+        base.OnCreate();
 
+    }
+
+    private bool check = false;
     protected override void OnUpdate()
     {
-        Entities.ForEach((ref spawner_component myref) =>
+        if (check)
         {
-
-            myref.timeToNext -= Time.DeltaTime;
-            if (myref.timeToNext < 0)
+            
+        }
+        else
+        {
+            Entities.ForEach((ref spawner_component myref) =>
             {
 
-                for (int i = 0; i < 50; i++)
+                float x = myref.lastPos;
+                Debug.Log(myref.lastPosY);
+                float y = myref.lastPosY;
+
+           //     EntityManager.CreateArchetype(ref move_component);
+                for (int i = 0; i < 100; i++)
                 {
-                    Entity entity = EntityManager.Instantiate(myref.prefab);
-                    EntityManager.AddComponentData(entity,new Translation
+                    //myref.myEntity[i] = new int[100];
+                    for (int j = 0; j < 100; j++)
                     {
-                        Value = new float3(i,0,myref.lastPos)
-                    });
+                        Entity entity = EntityManager.Instantiate(myref.prefab);
+                        EntityManager.AddComponentData(entity, new Translation
+                        {
+                            Value = new float3(myref.lastPosY, 0, myref.lastPos)
+                        });
+                        // myref.myEntity[i][j] = entity.Index;
+                        myref.lastPos += 1;
+                    }
+
+                    myref.lastPos = x;
+                    myref.lastPosY++;
                 }
-                myref.timeToNext =  1;
-                myref.lastPos += 1;
-            }
-        });
+                //myref.timeToNext =  1;
+
+                check = true;
+            });
+        }
     }
 }
